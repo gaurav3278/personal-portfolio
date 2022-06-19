@@ -1,5 +1,4 @@
 ## Personal Portfolio
 
 ### [Live Site](https://gaurav-rai.netlify.app/)
-
-![Portfolio Website](![image](https://user-images.githubusercontent.com/75034765/174470599-93b1bba4-669d-4639-bf23-ae649c04045c.png))
+![portfolio-img](https://user-images.githubusercontent.com/75034765/174470957-f108add3-5b66-4579-880d-7af6eea51816.jpg)
