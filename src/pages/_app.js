@@ -6,7 +6,7 @@ export default function App({ Component, pageProps }) {
     <>
       <Head>
         <title>My Portfolio</title>
-        <link rel='icon' href='https://img.icons8.com/fluency/48/undefined/portfolio.png' type='image/x-icon' />
+        <link rel='icon' href='/icons8-portfolio-16.png'/>
       </Head>
       <Theme>
         <Component {...pageProps} />
