@@ -13,8 +13,8 @@ export const projects = [
     description:'This project is based on managing the pharmacy system of a hospital. The system is built using Pyhton and MySQL. The system is designed to manage the inventory of the hospital. The system is designed to be user friendly and easy to use. The system is designed to be scalable and can be used in a large hospital.',
     image: '/images/1.png',
     tags: ['Python' ,'MySQL'],
-    visit:'https://github.com/gaurav3278/Pharmacy-management-',
-    source:'#',
+    visit:'#',
+    source:'https://github.com/gaurav3278/Pharmacy-management-',
     id: 1,
   },
   {
