@@ -35,15 +35,6 @@ export const projects = [
     visit: 'https://video-chat-2022.netlify.app/',
     id: 3,
   },
-  {
-    title: 'HomeJam',
-    description: "This is just a front end project which was assigned to me as an assignment of an intership selection procedure.",
-    image: '/images/5.jpg',
-    tags: ['React', 'Material UI'],
-    source: 'hhttps://github.com/gaurav3278/homejam',
-    visit: 'https://homejam-2022.netlify.app/',
-    id: 4,
-  },
 ];
 
 export const TimeLineData = [
