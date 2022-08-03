@@ -36,7 +36,7 @@ const Technologies = () => (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
+      {/* <ListItem>
         <picture>
           <DiZend size="3rem" />
         </picture>
@@ -47,7 +47,7 @@ const Technologies = () => (
             tools like Figma
           </ListParagraph>
         </ListContainer>
-      </ListItem>
+      </ListItem> */}
     </List>
     <SectionDivider colorAlt />
   </Section>
