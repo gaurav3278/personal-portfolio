@@ -23,6 +23,8 @@ export const Boxes = styled.div`
 `
 
 export const Box = styled.div`
+  display: flex;
+  flex-direction: column;
   background: #212D45;
   border-radius: 12px;
   height: 144px;
@@ -131,4 +133,11 @@ export const IconContainer = styled.div`
     width: 160px;
     justify-content: space-between;
   }
+`
+export const BoxImg = styled.img`
+ width: 100%;
+ height: 100%;
+ cursor: pointer;
+ object-fit: cover;
+ overflow: hidden;
 `
