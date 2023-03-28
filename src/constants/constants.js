@@ -1,7 +1,16 @@
 export const projects = [
   {
+    title: 'Study Verse',
+    description: "Study Verse is an online learning platform. We have used React with Tailwind to implement the frontend part and NodeJS, MongoDB for the backend part. We have also used firebase storage.",
+    image: '/images/study.jpg',
+    tags: ['ReactJS','MongoDB','NodeJS','Stripe','ExpressJS'],
+    source: 'https://github.com/orgs/DSN3099/repositories',
+    visit: 'https://studyverse.netlify.app',
+    id: 4,
+  },
+  {
     title: 'Medical Pager',
-    description: 'I along with my group have made a web app called Medical Pager, which is totally based on React.js and Node.js concepts.Our web app is primarily dedicated to saving the lives of disadvantaged individuals who are unable to access medical expertise due to a lack of time or funds.Now, thanks to Medical Pager, these folks can receive expert advice and potentially save their own and their loved ones lives. We welcome you to become a part of this digital life-saving effort.',
+    description: 'This webapp is totally based on React.js and Node.js concepts.Our web app is primarily dedicated to saving the lives of disadvantaged individuals who are unable to access medical expertise due to a lack of time or funds.',
     image: '/images/2.png',
     tags: [ 'React', 'Node'],
     visit: 'https://medical-pager-2022.netlify.app/',
@@ -34,11 +43,11 @@ export const projects = [
     source: 'https://github.com/gaurav3278/video-chat',
     visit: 'https://video-chat-2022.netlify.app/',
     id: 3,
-  },
+  }
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: 'Started my journey', },
+  { year: 2020, text: 'Pursued B.Tech in Computer Science from VIT Bhopal', },
   { year: 2021, text: 'Learned HTML , CSS and JavaScript and made some basic projects', },
   { year: 2022, text:'Learned React.js and Node.js and made some full stack projects', },
 ];

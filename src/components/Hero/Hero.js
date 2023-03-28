@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        I am Gaurav Rai, an engineering student at VIT bhopal pursuing my B.Tech in Computer Science and Engineering. I am a Front-end developer and learning Backend Development and a web 3.0 enthusiast.
+        I am Gaurav Rai, an engineering student at VIT bhopal pursuing my B.Tech in Computer Science and Engineering. I am a Front-end developer and learning Backend Development.
         </SectionText>
         <Button onClick={()=> window.location = 'https://www.hackerrank.com/_gaurav_rai'}>Learn More</Button>
       </LeftSection>

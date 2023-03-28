@@ -4,9 +4,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxImg, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: '5+', text: 'Projects',img:'', url: '', isImg: false},
-  { number: '', text: 'Flipkart Certificate',img:'/images/certi.jpg', url: 'https://drive.google.com/file/d/1e9hRb71mthittAsRYB1NYugsT--j6xrm/view?usp=sharing', isImg:true},
-  { number: '', text: 'GWL Certificate',img:'/images/GWL.jpg', url: 'https://drive.google.com/file/d/1j1zxm2VSTveDi09eYBiFvkZwGSkoi8RL/view?usp=sharing', isImg:true},
+  { text: 'Flipkart Grid',img:'/images/certi.jpg', url: 'https://drive.google.com/file/d/1e9hRb71mthittAsRYB1NYugsT--j6xrm/view?usp=sharing', isImg:true},
+  { text: 'Geek-Week-Local',img:'/images/GWL.jpg', url: 'https://drive.google.com/file/d/1j1zxm2VSTveDi09eYBiFvkZwGSkoi8RL/view?usp=sharing', isImg:true},
+  { text: 'Google KickStart',img:'/images/kickstart.jpg', url: 'https://drive.google.com/file/d/1rwm0IejPNc4U1CjFYD4xktqwXPoyEiYK/view?usp=sharing', isImg:true},
   
 ];
 
