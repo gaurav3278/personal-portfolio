@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
@@ -15,7 +14,9 @@ const Hero = (props) => (
         <SectionText>
         I am Gaurav Rai, an engineering student at VIT bhopal pursuing my B.Tech in Computer Science and Engineering. I am a Front-end developer and learning Backend Development.
         </SectionText>
-        <Button onClick={()=> window.location = 'https://www.hackerrank.com/_gaurav_rai'}>Learn More</Button>
+        <Button>
+          <a style={{color:'white'}} href='https://github.com/gaurav3278' target='_blank'>Learn More</a>
+        </Button>
       </LeftSection>
     </Section>
   </div>
